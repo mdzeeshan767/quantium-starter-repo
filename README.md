@@ -59,29 +59,29 @@ It contains transactional and customer-related information used for analysis and
 
 ----------------Learning Outcomes-----------------------
 
-Through this project, I practiced:
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Writing clean and maintainable Python code
-Organising a real-world project repository
-Using Git & GitHub effectively
+Through this project, I practiced:<br>
+Data cleaning and preprocessing<br>
+Exploratory Data Analysis (EDA)<br>
+Writing clean and maintainable Python code<br>
+Organising a real-world project repository<br>
+Using Git & GitHub effectively<br>
 
 ---------------- Future Improvements-----------------
 
-Add data visualisations (charts & dashboards)
-Improve error handling and logging
-Add unit tests
-Deploy as a web app (Streamlit / Flask)
-Automate analysis using pipelines
+Add data visualisations (charts & dashboards)<br>
+Improve error handling and logging<br>
+Add unit tests<br>
+Deploy as a web app (Streamlit / Flask)<br>
+Automate analysis using pipelines<br>
 
 -------------------Contributing----------------------
 
-Contributions are welcome!
-If you’d like to improve this project:
-Fork the repository
-Create a new branch
-Commit your changes
-Open a Pull Request
+Contributions are welcome!<br>
+If you’d like to improve this project:<br>
+Fork the repository<br>
+Create a new branch<br>
+Commit your changes<br>
+Open a Pull Request<br>
 
 -------------------- License------------------
 
@@ -89,7 +89,7 @@ This project is licensed under the MIT License — feel free to use, modify, and
 
 👤 Author
 
-Zeeshan
+Zeeshan<br>
 GitHub: @mdzeeshan767
 
 
