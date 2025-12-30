@@ -3,15 +3,15 @@ Quantium Starter Project
 This repository contains a starter implementation for the Quantium Virtual Internship / Data Analysis Project.
 The goal of this project is to analyse retail data, extract insights, and build a structured foundation for further data analysis and visualization.
 
-------------------- Project Structure----------------------
-quantium-starter-repo/
-│
-├── app.py                # Main Python application
-├── data/                 # Dataset files used for analysis
-├── static/
-│   └── styles.css        # Styling (if applicable)
-├── README.md             # Project documentation
-└── requirements.txt      # Python dependencies
+------------------- Project Structure----------------------<br>
+quantium-starter-repo/<br>
+│<br>
+├── app.py                # Main Python application<br>
+├── data/                 # Dataset files used for analysis<br>
+├── static/<br>
+│   └── styles.css        # Styling (if applicable)<br>
+├── README.md             # Project documentation<br>
+└── requirements.txt      # Python dependencies<br>
 
 ----------------- Features----------------------
 
